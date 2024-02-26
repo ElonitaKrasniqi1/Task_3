@@ -178,6 +178,7 @@ input[type="color"] {
     display: flex;
     align-items: center;
     margin-left: 0;
+    font-size: smaller;
   }
   .ch-theme {
     margin-left: 55%;
