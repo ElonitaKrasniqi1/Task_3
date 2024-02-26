@@ -306,7 +306,6 @@ input[type="color"] {
     width: 200px;
     height: 3rem;
     text-align: left;
-    font-size: smaller;
   }
   .cancel-button,
   .save-button {
@@ -321,5 +320,10 @@ input[type="color"] {
   .label-container {
     padding-left: 10%;
     padding-right: 5%;
+  }
+  input[type="color"] {
+    display: block;
+    margin-left: 75%;
+    margin-top: -5%;
   }
 }
